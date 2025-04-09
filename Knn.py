@@ -6,4 +6,6 @@ import matplotlib.pyplot as plt
 
 
 st.header('การจำแนกข้อมูลด้วยเทคนิค ML')
-st.title('Kong_pantang')
+#st.image("./img/img1.jpg")
+col1, col2, col3 = st.columns(3)
+
