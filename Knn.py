@@ -5,5 +5,5 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 
-st.header('Kong_Pantang')
-st.title('TESTPYTHON')
+st.header('การจำแนกข้อมูลด้วยเทคนิค ML')
+st.title('Kong_pantang')
