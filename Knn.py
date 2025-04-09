@@ -22,8 +22,8 @@ with col3:
    st.image("./img/img4.jpg")
 
 html_7 = """
-<div style="background-color:#33a5ff;padding:15px;border-radius:15px 15px 15px 15px;border-style:'solid';border-color:white">
-<center><h5>ข้อมูล หรือ ข้อมูลสำหรับทำนาย</h5></center>
+<div style="background-color:#33a5ff;padding:15px;border-radius:15px 15px 15px 15px;border-style:'solid';border-color:black">
+<center><h4>ข้อมูล หรือ ข้อมูลสำหรับทำนาย</h4></center>
 </div>
 """
 st.markdown(html_7, unsafe_allow_html=True)
