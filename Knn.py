@@ -20,3 +20,12 @@ with col2:
 with col3:
    st.header("Setosa")
    st.image("./img/img4.jpg")
+
+html_7 = """
+<div style="background-color:#c5f18a;padding:15px;border-radius:15px 15px 15px 15px;border-style:'solid';border-color:black">
+<center><h5>ข้อมูล หรือ ข้อมูลสำหรับทำนาย</h5></center>
+</div>
+"""
+st.markdown(html_7, unsafe_allow_html=True)
+st.markdown("")
+st.markdown("")
