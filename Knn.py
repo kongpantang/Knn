@@ -7,6 +7,7 @@ import seaborn as sns
 
 
 st.header('การจำแนกข้อมูลด้วยเทคนิค ML')
+st.header('นายสุกฤษฎิ์ พันแตง 654245023 65/39')
 st.image("./img/img1.jpg")
 col1, col2, col3 = st.columns(3)
 
